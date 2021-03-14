@@ -118,13 +118,13 @@ const TimeLine = () => {
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
               <UrlButton
-                  href="https://akjha96.github.io/Todo-List-React/"
+                  href="https://srikant-portfolio.netlify.app/"
                   target="_blank"
                 >
                   SEE LIVE
                 </UrlButton>
                 <UrlButton
-                  href="https://github.com/akjha96/Todo-List-React"
+                  href="https://github.com/vicky24111999/myportpolio.github.io"
                   target="_blank"
                 >
                   SOURCE CODE
